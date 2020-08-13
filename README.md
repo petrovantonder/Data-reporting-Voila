@@ -21,6 +21,9 @@ voila app.ipynb
 
 This will open a new browser tab at [http://localhost:8866](http://localhost:8866) serving the dashboard.
 
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/petrovantonder/Data-reporting-Voila/master?urlpath=%2Fvoila%2Fapp.ipynb
+
 
 ## Testing on Binder
 
